@@ -6,4 +6,4 @@ git config --global --unset user.email (reconfigurar propriedade de configura√ß√
 git remote add origin master "link repositorio" (Empurrar commit para repositorio no Github)
 git remote -v (lista de repositorio que tenho cadastrado)
 
-git pull origin master (puxar do github para repositorio local)
+git pull origin main (puxar do github para repositorio local)
