@@ -1,5 +1,5 @@
-# Desafio de projeto Git/GitHub - DIO :computer:
-Repositório para desafio do projeto
+# Desafios e projetos Git/GitHub :computer:
+Repositório para desafios e projetos
 
 ## Links úteis sobre o repositório
 
